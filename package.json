@@ -9,15 +9,15 @@
             "github:suriyan/pycayennelpp/cayennelpp/lpp_data.py"
         ],
         [
-            "cayennelpp/lpp_data.py",
-            "github:suriyan/pycayennelpp/cayennelpp/lpp_data.py"
+            "cayennelpp/lpp_frame.py",
+            "github:suriyan/pycayennelpp/cayennelpp/lpp_frame.py"
         ],
         [
-            "cayennelpp/lpp_data.py",
-            "github:suriyan/pycayennelpp/cayennelpp/lpp_data.py"
+            "cayennelpp/lpp_type.py",
+            "github:suriyan/pycayennelpp/cayennelpp/lpp_type.py"
         ],
         [
-            "cayennelpp/lpp_util.py",
+            "cayennelpp/lpp_util",
             "github:suriyan/pycayennelpp/cayennelpp/lpp_util.py"
         ]
     ],
