@@ -17,7 +17,7 @@
             "github:suriyan/pycayennelpp/cayennelpp/lpp_type.py"
         ],
         [
-            "cayennelpp/lpp_util",
+            "cayennelpp/lpp_util.py",
             "github:suriyan/pycayennelpp/cayennelpp/lpp_util.py"
         ]
     ],
