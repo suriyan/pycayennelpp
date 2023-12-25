@@ -1,0 +1,27 @@
+{
+    "urls": [
+        [
+            "cayennelpp/__init__.py",
+            "github:suriyan/pycayennelpp/cayennelpp/__init__.py"
+        ],
+        [
+            "cayennelpp/__init__.py",
+            "github:suriyan/pycayennelpp/cayennelpp/lpp_data.py"
+        ],
+        [
+            "cayennelpp/__init__.py",
+            "github:suriyan/pycayennelpp/cayennelpp/lpp_frame.py"
+        ],
+        [
+            "cayennelpp/__init__.py",
+            "github:suriyan/pycayennelpp/cayennelpp/lpp_type.py"
+        ],
+        [
+            "cayennelpp/__init__.py",
+            "github:suriyan/pycayennelpp/cayennelpp/lpp_util.py"
+        ]
+    ],
+    "deps": [
+    ],
+    "version": "2.4.0"
+}
